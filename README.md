@@ -23,6 +23,9 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 ## Step 1: Enable GitHub Pages
 
+https://basemetalwork-1322034489.cos.ap-shanghai.myqcloud.com/CIF%E8%BF%9B%E5%8F%A3%E7%B2%97%E9%93%9C.png
+
+
 _Welcome to GitHub Pages and Jekyll :tada:!_
 
 The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
